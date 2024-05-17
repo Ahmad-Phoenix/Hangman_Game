@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed The Phoenix\\Downloads\\HangMan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7E92F2-9D01-4E2F-81A9-05C59028E099}|HangMan\\HangMan.vcxproj|C:\\Users\\Ahmed The Phoenix\\Downloads\\HangMan\\HangMan\\HangMan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE7E92F2-9D01-4E2F-81A9-05C59028E099}|HangMan\\HangMan.vcxproj|solutionrelative:HangMan\\HangMan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 367,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HangMan.cpp",
+              "DocumentMoniker": "C:\\Users\\Ahmed The Phoenix\\Downloads\\HangMan\\HangMan\\HangMan.cpp",
+              "RelativeDocumentMoniker": "HangMan\\HangMan.cpp",
+              "ToolTip": "C:\\Users\\Ahmed The Phoenix\\Downloads\\HangMan\\HangMan\\HangMan.cpp",
+              "RelativeToolTip": "HangMan\\HangMan.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T19:56:18.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 131,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 7,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
